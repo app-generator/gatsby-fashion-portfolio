@@ -2,7 +2,7 @@ const path = require('path')
 
 module.exports = {
   siteMetadata: {
-    title: `Gatsby Fashion Portfolio Starter`,
+    title: `Gatsby Fashion - Open-Source Starter | AppSeed`,
     description: `Beautiful portfolio for your fashion career.`,
     author: `@shobhitchittora`,
     menuLinks: [
@@ -18,23 +18,11 @@ module.exports = {
     socialLinks: [
       {
         name: 'fb',
-        link: 'http://fb.com'
+        link: 'https://facebook.com/webappseed'
       },
       {
         name: 'twitter',
-        link: 'http://twitter.com'
-      },
-      {
-        name: 'instagram',
-        link: 'http://instagram.com'
-      },
-      {
-        name: 'pinterest',
-        link: 'http://pinterest.com'
-      },
-      {
-        name: 'gmail',
-        link: 'mailto:chittorashobhit@gmail.com'
+        link: 'https://twitter.com/webappseed'
       }
     ]
   },

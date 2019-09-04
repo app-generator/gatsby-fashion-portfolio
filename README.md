@@ -1,64 +1,40 @@
-<h1 align="center">
-  Gatsby's Fashion Portfolio Starter
-</h1>
+# [GatsbyJS Fashion](https://appseed.us/apps/gatsbyjs/gatsby-fashion-portfolio)
 
-A Gatsby starter for a professional and minimal fashion portfolio.
+Open-source app built with GatsbyJS on top of HTML5Up Fashion design. 
 
-## 🚀 Quick start
+<br />
 
-1.  **Create a Gatsby site.**
+![GatsbyJS Fashion - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-fashion-portfolio-intro.gif?raw=true)
 
-    Use the Gatsby CLI to create a new site, specifying the starter.
+<br />
 
-    ```sh
-    # create a new Gatsby site using gatsby-starter-fashion-portfolio 
-    gatsby new my-fashion-portfolio https://github.com/gatsbyjs/gatsby-starter-fashion-portfolio
-    ```
+## App Links
 
-1.  **Start developing.**
+- [GatsbyJS Fashion](https://gatsby-fashion-portfolio.appseed.us) - live demo
 
-    Navigate into your new site’s directory and start it up.
+<br />
 
-    ```sh
-    cd my-fashion-portfolio /
-    gatsby develop
-    ```
+## How to use it
+- Clone this repo `git clone https://github.com/app-generator/gatsby-fashion-portfolio.git`
+- change directory to `gatsby-fashion-portfolio`
+- `yarn` - install modules
+- `yarn start` - start for development
+- `yarn build` - build for production
 
-1.  **Open the source code and start editing!**
+<br />
 
-    Your site is now running at `http://localhost:8000`!
+## Support
 
-    _Note: You'll also see a second link: _`http://localhost:8000/___graphql`_. This is a tool you can use to experiment with querying your data. Learn more about using this tool in the [Gatsby tutorial](https://www.gatsbyjs.org/tutorial/part-five/#introducing-graphiql)._
+Please access the official [Support](https://appseed.us/support) page provided by **AppSeed**
 
-    Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
+<br />
 
+## Resources
+ 
+ - [GatsbyJS](https://www.gatsbyjs.org/)
+ - More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
 
-## 🎨 Make it your own?
+<br />
 
-1.  **Putting your own images in**
-
-    a. For the Home Page, replace the image `image-home-page` in the `images` folder with your own ( keeping the name intact as `image-home-page`) <br/>
-    b. The images on Collections Page follow the patterns as below - <br/>
->      i. `page-[page-number]-thumb` for thumbnail images
->      ii. `page-[page-number]-large` for large images
->      iii. `page-[page-number]-grid-[grid-index]` for grid images
-    c. Replace the images with the above patterns.
-
-
-1.  **Putting your own Logo in**
-
-    Update the component in `src/Logo` with your text or image.
-
-
-## 💻 Wanna contribute?
-
-There are a lot of improvements to be done. Fork this off and reise PRs for any and all suggestions.
-
-## ☕️ Buy me a coffee?
-
-https://www.paypal.me/shobhitchittora
-
-
-## 💫 Deploy
-
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/gatsbyjs/gatsby-starter-default)
+---
+[GatsbyJS Fashion](https://appseed.us/apps/gatsbyjs/gatsby-fashion-portfolio) provided by **AppSeed**

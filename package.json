@@ -5,6 +5,7 @@
   "author": "Shobhit Chittora <chittorashobhit@gmail.com>",
   "dependencies": {
     "classnames": "^2.2.6",
+    "ftp-deploy": "^2.3.3",
     "gatsby": "^2.13.31",
     "gatsby-image": "^2.2.6",
     "gatsby-plugin-manifest": "^2.2.3",
@@ -12,6 +13,7 @@
     "gatsby-plugin-react-helmet": "^3.1.2",
     "gatsby-plugin-react-svg": "^2.1.1",
     "gatsby-plugin-sharp": "^2.2.8",
+    "gatsby-plugin-sitemap": "^2.2.10",
     "gatsby-plugin-web-font-loader": "^1.0.4",
     "gatsby-source-filesystem": "^2.1.5",
     "gatsby-transformer-sharp": "^2.2.4",
@@ -31,6 +33,9 @@
   ],
   "license": "MIT",
   "scripts": {
+    "deploy": "gatsby clean && gatsby build && node deploy",
+    "deploy_gh": "npm run clean && gatsby build --prefix-paths && gh-pages -d public",
+    "start": "gatsby clean && gatsby develop",
     "build": "gatsby build",
     "develop": "gatsby develop",
     "format": "prettier --write src/**/*.{js,jsx}",
