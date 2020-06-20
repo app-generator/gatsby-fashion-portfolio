@@ -4,7 +4,7 @@ Open-source app built with GatsbyJS on top of HTML5Up Fashion design.
 
 <br />
 
-![GatsbyJS Multiverse - Open-Source GatsbyJS Starter.](https://raw.githubusercontent.com/app-generator/gatsby-html5up-multiverse/master/media/gatsby-html5up-multiverse-screen.png)
+![GatsbyJS Multiverse - Open-Source GatsbyJS Starter.](https://raw.githubusercontent.com/app-generator/gatsby-fashion-portfolio/master/media/gatsby-fashion-portfolio-screen.png)
 
 <br />
 
