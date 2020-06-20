@@ -1,10 +1,10 @@
 # [GatsbyJS Fashion](https://appseed.us/apps/gatsbyjs/gatsby-fashion-portfolio)
 
-Open-source app built with GatsbyJS on top of HTML5Up Fashion design. 
+Open-source app built with GatsbyJS on top of HTML5Up Fashion design.
 
 <br />
 
-![GatsbyJS Fashion - Gif animated intro.](https://github.com/app-generator/static/blob/master/products/gatsby-fashion-portfolio-intro.gif?raw=true)
+![GatsbyJS Multiverse - Open-Source GatsbyJS Starter.](https://raw.githubusercontent.com/app-generator/gatsby-html5up-multiverse/master/media/gatsby-html5up-multiverse-screen.png)
 
 <br />
 
@@ -31,8 +31,8 @@ Please access the official [Support](https://appseed.us/support) page provided b
 
 ## Resources
  
- - [GatsbyJS](https://www.gatsbyjs.org/)
- - More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
+- [GatsbyJS](https://www.gatsbyjs.org/)
+- More [GatsbyJS Apps](https://appseed.us/apps/gatsbyjs)
 
 <br />
 
