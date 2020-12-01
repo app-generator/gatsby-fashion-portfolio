@@ -2,6 +2,8 @@
 
 Open-source app built with GatsbyJS on top of HTML5Up Fashion design.
 
+> Originally coded by **[Shobhit Chittora](https://github.com/shobhitchittora)**.
+
 <br />
 
 ![GatsbyJS Multiverse - Open-Source GatsbyJS Starter.](https://raw.githubusercontent.com/app-generator/gatsby-fashion-portfolio/master/media/gatsby-fashion-portfolio-screen.png)
